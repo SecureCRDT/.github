@@ -1,2 +1,2 @@
-# .github
-Introduction to the SecureSMPC Organization
+# SecureCRDT
+Introduction to the SecureCRDT Organization
