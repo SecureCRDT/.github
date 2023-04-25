@@ -1,5 +1,6 @@
 SecureCRDT
 =============
+<img src="https://img.shields.io/badge/status-research%20prototype-green.svg" />
 
 This GitHub organization contains all the resources needed to deploy and evaluate the performance of SecureCRDT, a system published in the paper "General-Purpose Secure Conflict-free Replicated Data Types".
 
